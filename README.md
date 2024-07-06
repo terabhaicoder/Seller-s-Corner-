@@ -24,4 +24,4 @@ pnpm dev
 bun dev
 ```
 
-website will be hosted on [ http://localhost:3000 ]( http://localhost:3000)
+Seller's Corner will be hosted on [ http://localhost:3000 ]( http://localhost:3000)
