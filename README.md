@@ -1,5 +1,16 @@
-# Getting Started 
-make sure to fill out the **.env** file with the necessary information requred
+# Seller's Corner
+
+
+![image](https://github.com/user-attachments/assets/e422571f-9613-444f-883d-0cd86621942a)
+
+
+![image](https://github.com/user-attachments/assets/eff49427-ecd5-4b8c-b638-24618835b508)
+
+
+![image](https://github.com/user-attachments/assets/a798e3b7-3ea7-40a8-a722-313e391a982f)
+
+
+fill out the **.env** file with the necessary information requred
 ```
 GOOGLE_CLIENT_ID
 GOOGLE_CLIENT_SECRET
@@ -13,7 +24,9 @@ MONGODB_URL
 
 
 
-Then run the development server:
+
+
+run the development server:
 ```
 npm run dev
 # or
